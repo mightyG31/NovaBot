@@ -1,0 +1,42 @@
+{
+  "test": {
+    "botName": "NovaBot",
+    "languageMode": "auto",
+    "aiChannels": [],
+    "authorizedCommanders": [],
+    "ambientEnabled": true,
+    "ambientCooldownSec": 60,
+    "teamName": "Nova",
+    "gameServers": []
+  },
+  "test_nova": {
+    "botName": "NovaBot",
+    "languageMode": "auto",
+    "aiChannels": [],
+    "authorizedCommanders": [],
+    "ambientEnabled": true,
+    "ambientCooldownSec": 60,
+    "teamName": "Nova",
+    "gameServers": []
+  },
+  "guild_pvp_test": {
+    "botName": "NovaBot",
+    "languageMode": "auto",
+    "aiChannels": [],
+    "authorizedCommanders": [],
+    "ambientEnabled": true,
+    "ambientCooldownSec": 60,
+    "teamName": "Nova",
+    "gameServers": []
+  },
+  "g1": {
+    "botName": "NovaBot",
+    "languageMode": "auto",
+    "aiChannels": [],
+    "authorizedCommanders": [],
+    "ambientEnabled": true,
+    "ambientCooldownSec": 60,
+    "teamName": "Nova",
+    "gameServers": []
+  }
+}

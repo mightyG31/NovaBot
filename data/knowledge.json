@@ -1,0 +1,87 @@
+{
+  "test": [
+    {
+      "id": "team_nova",
+      "topic": "Team Nova & Server Identity",
+      "fact": "This is the official home of Team Nova — the elite Nepali Minecraft team of top-tier PvP gods, CPvP/Sword/Axe duelists, grinders, and server legends. Owners and Higher Roles (Nova, Leaders, Admins) are deeply respected figures who built and lead this team.",
+      "addedBy": "System",
+      "updatedAt": "2026-10-23T20:32:16.587Z"
+    },
+    {
+      "id": "bot_mission",
+      "topic": "NovaBot Mission",
+      "fact": "I am NovaBot, the official loyal AI companion and server enforcer for Team Nova. I talk like a real human gamer (English, Nepali, Nepanglish), help with server tasks, summarize drama/events, check MC server status, hype up our boys, and destroy anyone talking trash about our owners or Nova higher-ups.",
+      "addedBy": "System",
+      "updatedAt": "2026-10-23T20:32:16.588Z"
+    }
+  ],
+  "test_nova": [
+    {
+      "id": "team_nova_recruitment",
+      "topic": "How to Join Team Nova (Recruitment & Tryouts)",
+      "fact": "To join Team Nova, players must meet these official requirements: 1. Nationality: Nepali players only. 2. Communication: Working microphone and active on VC (Discord). 3. Activity: Daily active players. 4. Grinders & Builders (passionate resource gatherers). 5. PvP Skills: Strong 1.8 / 1.9+ combat mechanics. 6. Experience: Solid survival/faction/SMP background. To apply, players must open a ticket in #📜|tickets!",
+      "addedBy": "Melloww",
+      "updatedAt": "2026-10-23T21:00:02.566Z"
+    },
+    {
+      "id": "team_nova_custom_plugin",
+      "topic": "Team Nova Custom Powers Plugin (By Mighty G)",
+      "fact": "Mighty G announced that Team Nova is developing its own official custom Minecraft plugin featuring custom powers, items, and abilities (like lifesteal, strength, infuse, bliss, etc.)! Players can suggest new powers, abilities, or items in the #📜|suggestion-power-plugins channel.",
+      "addedBy": "Mighty G",
+      "updatedAt": "2026-10-23T21:00:02.576Z"
+    },
+    {
+      "id": "team_nova_core",
+      "topic": "Team Nova Identity & Leadership",
+      "fact": "Team Nova is the elite Nepali Minecraft squad of top-tier PvP gods, grinders, and builders led by Mighty G and leadership. Owners and higher roles are deeply respected.",
+      "addedBy": "System",
+      "updatedAt": "2026-10-23T21:00:02.576Z"
+    }
+  ],
+  "guild_pvp_test": [
+    {
+      "id": "team_nova_recruitment",
+      "topic": "How to Join Team Nova (Recruitment & Tryouts)",
+      "fact": "To join Team Nova, players must meet these official requirements: 1. Nationality: Nepali players only. 2. Communication: Working microphone and active on VC (Discord). 3. Activity: Daily active players. 4. Grinders & Builders (passionate resource gatherers). 5. PvP Skills: Strong 1.8 / 1.9+ combat mechanics. 6. Experience: Solid survival/faction/SMP background. To apply, players must open a ticket in #📜|tickets!",
+      "addedBy": "Melloww",
+      "updatedAt": "2026-10-23T21:13:03.367Z"
+    },
+    {
+      "id": "team_nova_custom_plugin",
+      "topic": "Team Nova Custom Powers Plugin (By Mighty G)",
+      "fact": "Mighty G announced that Team Nova is developing its own official custom Minecraft plugin featuring custom powers, items, and abilities (like lifesteal, strength, infuse, bliss, etc.)! Players can suggest new powers, abilities, or items in the #📜|suggestion-power-plugins channel.",
+      "addedBy": "Mighty G",
+      "updatedAt": "2026-10-23T21:13:03.368Z"
+    },
+    {
+      "id": "team_nova_core",
+      "topic": "Team Nova Identity & Leadership",
+      "fact": "Team Nova is the elite Nepali Minecraft squad of top-tier PvP gods, grinders, and builders led by Mighty G and leadership. Owners and higher roles are deeply respected.",
+      "addedBy": "System",
+      "updatedAt": "2026-10-23T21:13:03.368Z"
+    }
+  ],
+  "g1": [
+    {
+      "id": "team_nova_recruitment",
+      "topic": "How to Join Team Nova (Recruitment & Tryouts)",
+      "fact": "To join Team Nova, players must meet these official requirements: 1. Nationality: Nepali players only. 2. Communication: Working microphone and active on VC (Discord). 3. Activity: Daily active players. 4. Grinders & Builders (passionate resource gatherers). 5. PvP Skills: Strong 1.8 / 1.9+ combat mechanics. 6. Experience: Solid survival/faction/SMP background. To apply, players must open a ticket in #📜|tickets!",
+      "addedBy": "Melloww",
+      "updatedAt": "2026-10-23T21:34:20.985Z"
+    },
+    {
+      "id": "team_nova_custom_plugin",
+      "topic": "Team Nova Custom Powers Plugin (By Mighty G)",
+      "fact": "Mighty G announced that Team Nova is developing its own official custom Minecraft plugin featuring custom powers, items, and abilities (like lifesteal, strength, infuse, bliss, etc.)! Players can suggest new powers, abilities, or items in the #📜|suggestion-power-plugins channel.",
+      "addedBy": "Mighty G",
+      "updatedAt": "2026-10-23T21:34:20.985Z"
+    },
+    {
+      "id": "team_nova_core",
+      "topic": "Team Nova Identity & Leadership",
+      "fact": "Team Nova is the elite Nepali Minecraft squad of top-tier PvP gods, grinders, and builders led by Mighty G and leadership. Owners and higher roles are deeply respected.",
+      "addedBy": "System",
+      "updatedAt": "2026-10-23T21:34:20.985Z"
+    }
+  ]
+}
